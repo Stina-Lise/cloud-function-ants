@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "MALM",
+      "details": "Bed frame, high, Standard double",
+      "description": "A comfortable bed with storage space underneath.",
+      "currentPrice": 2795,
+      "image": "id1 MALM.avif",
+      "url": "https://www.ikea.com/us/en/p/malm-bed-frame-high-white-30372548/"
+    },
+    {
+      "id": 2,
+      "name": "BILLY",
+      "details": "Bookcase, white, 80x28x202 cm",
+      "description": "A simple and stylish bookcase for your home library.",
+      "currentPrice": 759,
+      "image": "id2 BILLY.avif",
+      "url": "https://www.ikea.com/us/en/p/billy-bookcase-white-00263850/"
+    },
+    {
+      "id": 3,
+      "name": "LACK",
+      "details": "Side table, white, 55x55 cm",
+      "description": "A minimalist coffee table with a clean design.",
+      "currentPrice": 149,
+      "image": "id3 LACK.avif",
+      "url": "https://www.ikea.com/us/en/p/lack-coffee-table-black-brown-00104291/"
+    },
+    {
+      "id": 4,
+      "name": "KALLAX",
+      "details": "Shelving unit, white, 77x147 cm",
+      "description": "A versatile shelving unit for organizing your space.",
+      "currentPrice": 799,
+      "image": "id4 KALLAX.avif",
+      "url": "https://www.ikea.com/us/en/p/kallax-shelf-unit-black-brown-80275887/"
+    },
+    {
+      "id": 5,
+      "name": "EKTORP",
+      "details": "3-seat sofa, Hallarp grey",
+      "description": "A cozy and comfortable sofa for your living room.",
+      "currentPrice": 6395,
+      "image": "id5 EKTORP.avif",
+      "url": "https://www.ikea.com/us/en/p/ektorp-sofa-vittaryd-white-s99129183/"
+    },
+    {
+      "id": 6,
+      "name": "HEMNES",
+      "details": "Chest of 8 drawers, white stain, 160x96 cm",
+      "description": "A classic dresser with plenty of storage space.",
+      "currentPrice": 3995,
+      "image": "id6 HEMNES.avif",
+      "url": "https://www.ikea.com/us/en/p/hemnes-8-drawer-dresser-white-stain-80374285/"
+    },
+    {
+      "id": 7,
+      "name": "POÄNG",
+      "details": "Armchair, white stained oak veneer/Skiftebo yellow",
+      "description": "A comfortable armchair with a stylish design.",
+      "currentPrice": 1295,
+      "image": "id7 POÄNG.avif",
+      "url": "https://www.ikea.com/us/en/p/poang-armchair-birch-veneer-hillared-beige-s49128959/"
+    },
+    {
+      "id": 8,
+      "name": "MICKE",
+      "details": "Desk, white, 105x50 cm",
+      "description": "An awesome desk to put things in. Also work as a working station",
+      "currentPrice": 7699,
+      "image": "id8 MICKE.avif",
+      "url": "https://www.ikea.com/us/en/p/roedtoppa-comforter-warmer-90271844/"
+    },
+    {
+      "id": 9,
+      "name": "LISABO",
+      "details": "Table, ash veneer, 105 cm",
+      "description": "A stylish dining table for family gatherings.",
+      "currentPrice": 2495,
+      "image": "id9 LISABO.avif",
+      "url": "https://www.ikea.com/us/en/p/lisabo-table-ash-veneer-20342751/"
+    },
+    {
+      "id": 10,
+      "name": "EKEDALEN",
+      "details": "Chair, oak/Ramna light grey",
+      "description": "A comfortable dining chair with a modern look.",
+      "currentPrice": 795,
+      "image": "id10 EKEDALEN.avif",
+      "url": "https://www.ikea.com/us/en/p/ekedalen-chair-dark-brown-00343218/"
+    },
+    {
+      "id": 11,
+      "name": "FRIHETEN",
+      "details": "Corner sofa-bed with storage, Skiftebo dark grey",
+      "description": "A versatile sofa that turns into a bed when needed.",
+      "currentPrice": 7495,
+      "image": "id11 FRIHETEN.avif",
+      "url": "https://www.ikea.com/us/en/p/friheten-sleeper-sofa-skiftebo-dark-gray-30341116/"
+    },
+    {
+      "id": 12,
+      "name": "RIGGA",
+      "details": "Clothes rack, white",
+      "description": "A mobile clothes rack for extra storage space.",
+      "currentPrice": 199,
+      "image": "id12 RIGGA.avif",
+      "url": "https://www.ikea.com/us/en/p/rigga-clothes-rack-white-50231630/"
+    },
+    {
+      "id": 13,
+      "name": "BRIMNES",
+      "details": "Wardrobe with 3 doors, white, 117x190 cm",
+      "description": "A space-saving wardrobe with a mirror on the door.",
+      "currentPrice": 2295,
+      "image": "id13 BRIMNES.avif",
+      "url": "https://www.ikea.com/us/en/p/brimnes-wardrobe-with-2-doors-white-00370208/"
+    },
+    {
+      "id": 14,
+      "name": "VITTSJÖ",
+      "details": "Shelving unit, black-brown/glass, 100x93 cm",
+      "description": "A sleek shelving unit for your stuff.",
+      "currentPrice": 879,
+      "image": "id14 VITTSJÖ.avif",
+      "url": "https://www.ikea.com/us/en/p/besta-tv-unit-white-s69290988/"
+    },
+    {
+      "id": 15,
+      "name": "DJUNGELSKOG",
+      "details": "Soft toy, orangutan",
+      "description": "A cute monkey to play with. Great for cuddles.",
+      "currentPrice": 149,
+      "image": "id15 DJUNGELSKOG.avif",
+      "url": "https://www.ikea.com/us/en/p/sinnerlig-pendant-lamp-bamboo-50405848/"
+    },
+    {
+      "id": 16,
+      "name": "LAUTERS",
+      "details": "Table lamp, ash/white",
+      "description": "A cool lamp that lights up your room.",
+      "currentPrice": 435,
+      "image": "id16 LAUTERS.avif",
+      "url": "https://www.ikea.com/us/en/p/norden-gateleg-table-birch-10423807/"
+    },
+    {
+      "id": 17,
+      "name": "MITTLED",
+      "details": "LED spotlight, dimmable white",
+      "description": "A stylish LED spotlight for your kitchen.",
+      "currentPrice": 129,
+      "image": "id17 MITTLED.avif",
+      "url": "https://www.ikea.com/us/en/p/ronninge-armchair-black-30572432/"
+    },
+    {
+      "id": 18,
+      "name": "MOSSLANDA",
+      "details": "Picture ledge, white, 55 cm",
+      "description": "A floating picture ledge for displaying artwork.",
+      "currentPrice": 129,
+      "image": "id18 MOSSLANDA .avif",
+      "url": "https://www.ikea.com/us/en/p/mosslanda-picture-ledge-white-70292104/"
+    },
+    {
+      "id": 19,
+      "name": "TOBIAS",
+      "details": "Chair, transparent/chrome-plated",
+      "description": "A transparent chair with a modern design.",
+      "currentPrice": 995,
+      "image": "id19 TOBIAS.avif",
+      "url": "https://www.ikea.com/us/en/p/tobias-chair-transparent-chrome-plated-20115038/"
+    },
+    {
+      "id": 20,
+      "name": "VARDÖ",
+      "details": "Bed storage box, black, 65x70 cm",
+      "description": "A soft and stylish rug to add warmth to your room.",
+      "currentPrice": 445,
+      "image": "id20 VARDÖ.avif",
+      "url": "https://www.ikea.com/us/en/p/rorande-rug-low-pile-yellow-30472623/"
+    }
+  ]
+  
