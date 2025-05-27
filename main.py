@@ -24,7 +24,7 @@ def apply_discount(event, context):
     max_products_to_discount = len(all_products) // 2  # Half of the total products
 
     # Generate a random number of products to discount within the specified range
-    num_products_to_discount = random.randint(max_products_to_discount, max_products_to_discount)
+    num_products_to_discount = random.randint(min_products_to_discount, max_products_to_discount)
     # Randomly select a subset of products to discount
     products_to_discount = random.sample(all_products, num_products_to_discount)
 
@@ -43,3 +43,13 @@ def apply_discount(event, context):
 
 # To test this function locally, you can call it like this:
 apply_discount(None, None)
+
+# function calculate median of two sorted arrays
+def median(arr1, arr2):
+    # TODO: Implement the median function
+    pass
+       
+
+
+                
+

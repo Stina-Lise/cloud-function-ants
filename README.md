@@ -8,4 +8,4 @@ have firebase-admin installed :pip3 install firebase-admin
 python3 uploadproducts.py   
 ### To discount random products
 It make take a bit of time to execute
-python3 discout.py   
+python3 discount.py   
